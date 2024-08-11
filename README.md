@@ -44,7 +44,7 @@ $$salida=\frac{Entrada1}{R}+\frac{Entrada2}{2R}+\frac{Entrada3}{4R}+\frac{Entrad
 
 [Circuito por red de escalera](C:\Users\juang\Desktop\8vo semestre\control digital\imagen2.PNG)
 
-$$salida=(/frac{Rf}{R})(\frac{Entrada1}{16}+\frac{Entrada2}{8}+\frac{Entrada3}{4}+\frac{Entrada4}{16})$$
+$$salida=(/frac{Rf}{R})*(\frac{Entrada1}{16}+\frac{Entrada2}{8}+\frac{Entrada3}{4}+\frac{Entrada4}{16})$$
 
 
 
