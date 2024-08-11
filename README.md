@@ -17,7 +17,7 @@ Ya que la implementación del control digital es tan simple como ejecutar códig
 ## 3 Conversión análoga digital
 La conversión análoga-digital se compone de 3 pasos principales: el muestreo, la cuantización y la codificación.
 
-###3.1 Muestreo
+### 3.1 Muestreo
 El muestreo lo podemos definir como la cantidad de tiempo que tarda una computadora en tomar un valor de una señal análoga, entre más alta la tasa de muestro o más bajo el tiempo de muestreo se van a tomar más datos de la señal, por lo tanto, tendremos una señal digitalmente más fiel a la original.
 
 ### 3.2 Cuantización
