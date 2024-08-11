@@ -36,16 +36,15 @@ como ya sabemos el mundo se rige por señales análogas, por la tanto debemos pa
 
 ### 4.1 Método de resistencias ponderadas:
 
-![Circuito por resistencias ponderadas](C:\Users\juang\Desktop\8vo semestre\control digital\imagen1.PNG)
+![Figura de prueba](C:\Users\juang\Desktop\8vo semestre\control digital\imagen1.PNG)
 
 $$salida=\frac{Entrada1}{R}+\frac{Entrada2}{2R}+\frac{Entrada3}{4R}+\frac{Entrada4}{8R}+\frac{Entrada5}{16R}$$
 
 ### 4.2 Método de red escalera
 
-![Circuito por red de escalera](C:\Users\juang\Desktop\8vo semestre\control digital\imagen2.PNG)
+[Circuito por red de escalera](C:\Users\juang\Desktop\8vo semestre\control digital\imagen2.PNG)
 
-$$salida=(/frac{Rf}{R})*(\frac{Entrada1}{16}+\frac{Entrada2}{8}+\frac{Entrada3}{4}+\frac{Entrada4}{16})$$
-
+$$salida=-(/frac{Rf}{R})(\frac{Entrada1}{16}+\frac{Entrada2}{8}+\frac{Entrada3}{4}+\frac{Entrada4}{2})$$
 
 
 
