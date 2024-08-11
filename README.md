@@ -1,4 +1,5 @@
 #Clase 29/08/2024 introducción al control digital 
+
 En esta clase se vieron las diferencias entre hacer control de forma análogo y hacer control de forma digital, viendo cada una de sus ventajas y desventajas, y por último viendo como es el funcionamiento de un sistema controlado por procesamiento digital.
 ##1. señales análogas y digitales
 Podemos diferenciar señales analógicas y digitales de una manera sencilla, las señales analógicas pueden tomar cualquier valor dentro de un rango determinado, y las señales digitales, solo pueden tomar dos valores, esto en referencia a el 1 o 0 que entiende una computadora digital.
@@ -44,3 +45,6 @@ $$salida=\frac{Entrada1}{R}+\frac{Entrada2}{2R}+\frac{Entrada3}{4R}+\frac{Entrad
 [Circuito por red de escalera](C:\Users\juang\Desktop\8vo semestre\control digital\imagen2.PNG)
 
 $$salida=-(/frac{Rf}{R})(\frac{Entrada1}{16}+\frac{Entrada2}{8}+\frac{Entrada3}{4}+\frac{Entrada4}{2})$$
+
+
+
