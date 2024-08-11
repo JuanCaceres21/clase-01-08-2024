@@ -36,7 +36,7 @@ como ya sabemos el mundo se rige por señales análogas, por la tanto debemos pa
 
 ### 4.1 Método de resistencias ponderadas:
 
-![circuito de resistencias ponderadas](images/imagen1.PNG)
+![circuito de resistencias ponderadas](imagenes/imagen1.PNG)
 
 $$salida=\frac{Entrada1}{R}+\frac{Entrada2}{2R}+\frac{Entrada3}{4R}+\frac{Entrada4}{8R}+\frac{Entrada5}{16R}$$
 
