@@ -9,7 +9,7 @@ El control digital, posee en si tres ventajas por encima del control análogo:
 
 ### 2.1 Implementación
 Un sistema digital, al correr directamente en una computadora, esto hace que en caso de cometer un error o hacer una modificación se más fácil cambiar cualquier parámetro en código, en lugar de cambiar elementos físicos de la computadora como se haría en el control análogo.
-###2.2 Flexibilidad
+### 2.2 Flexibilidad
 En el caso de las computadoras análogas estas se construyen teniendo en mente la función que van a desempeñar, con esto en cuenta podemos decir que un sistema análogo construido para una planta en específico, no va a funcionar en una planta diferente. El control digital permite ejecutar un sistema u otro, esto otorga la posibilidad de usar una misma computadora en distintas plantas de control.
 ### 2.3 Costos
 Ya que la implementación del control digital es tan simple como ejecutar código en una computadora, este en si es el único elemento que se requiere para esta tarea, abaratando costos y reduciendo la cantidad de elementos necesarios para la implementación.
@@ -45,7 +45,6 @@ $$salida=\frac{Entrada1}{R}+\frac{Entrada2}{2R}+\frac{Entrada3}{4R}+\frac{Entrad
 [Circuito por red de escalera](C:\Users\juang\Desktop\8vo semestre\control digital\imagen2.PNG)
 
 $$salida=-(/frac{Rf}{R})(\frac{Entrada1}{16}+\frac{Entrada2}{8}+\frac{Entrada3}{4}+\frac{Entrada4}{2})$$
-
 
 
 
