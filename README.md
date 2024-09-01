@@ -1,4 +1,4 @@
-# Clase 29/08/2024 introducción al control digital 
+# Clase 01/08/2024 introducción al control digital 
 
 En esta clase se vieron las diferencias entre hacer control de forma análogo y hacer control de forma digital, viendo cada una de sus ventajas y desventajas, y por último viendo como es el funcionamiento de un sistema controlado por procesamiento digital.
 ## 1. señales análogas y digitales
