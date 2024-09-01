@@ -46,5 +46,10 @@ $$salida=\frac{Entrada1}{R}+\frac{Entrada2}{2R}+\frac{Entrada3}{4R}+\frac{Entrad
 
 $$salida=(\frac{Rf}{R})*(\frac{Entrada1}{16}+\frac{Entrada2}{8}+\frac{Entrada3}{4}+\frac{Entrada4}{2})$$
 
+## Conclusiones
 
+Aunque las señales analógicaa parecieran imposibles de reconocer para una computadora digital, todos estos metodos y circuitos permiten controlar variables reales con sistemas digitales.
+
+## Referencias
+JORGE EDUARDO COTE BALLESTEROS (2014). E.P.1.Control digital. Introduccion al control digital. universidad ECCI
 
